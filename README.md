@@ -1,2 +1,1 @@
-# team-lead-test
-TeamLead test repository
+# vseinstrumenti
